@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidGridLayout.iml" filepath="$PROJECT_DIR$/AndroidGridLayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndroidGridLayout-master.iml" filepath="$PROJECT_DIR$/AndroidGridLayout-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Memester.iml" filepath="$PROJECT_DIR$/.idea/modules/Memester.iml" group="Memester" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Memester-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Memester-app.iml" group="Memester/app" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
